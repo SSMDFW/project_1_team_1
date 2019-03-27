@@ -1,0 +1,11 @@
+State,City,Population,"Violent
+crime","Property
+crime",Violent Crime per pop,"Violent crime rate per 100,000 inhabitants",Property crime per pop,"Property crime per 100,000 inhabitants"
+Virginia,Virginia Beach,"452,797",344,"4,798",0,75.97,0.01,1059.64
+Hawaii,Honolulu,999307,1165,15535,0,116.58,0.02,1554.58
+Kentucky,Lexington,314077,504,5982,0,160.47,0.02,1904.63
+California,Anaheim,349471,620,5151,0,177.41,0.01,1473.94
+Michigan,Detroit,673225,5409,13442,0.01,803.45,0.02,1996.66
+Maryland,Baltimore,621252,5176,13822,0.01,833.16,0.02,2224.86
+Tennessee,Memphis,"657,936","5,733","16,833",0.01,871.36,0.03,2558.46
+Missouri,St. Louis,317095,2781,8522,0.01,877.02,0.03,2687.52
