@@ -1,0 +1,7 @@
+Questions: 
+
+1. Correlation between student/teacher ratios and high school dropout rates.
+
+
+
+2. Correlation between the high school dropout rate and crime in the area/city/county
